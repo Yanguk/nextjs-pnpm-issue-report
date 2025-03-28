@@ -1,10 +1,12 @@
 {
   "name": "next-two",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "n": "node ./temp.js"
   },
   "dependencies": {
     "next": "canary",
