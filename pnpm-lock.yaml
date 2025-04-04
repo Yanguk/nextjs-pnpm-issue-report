@@ -11,51 +11,51 @@ importers:
   packages/next-one:
     dependencies:
       lucide-react:
-        specifier: ^0.400.0
+        specifier: 0.400.0
         version: 0.400.0(react@19.0.0)
       next:
         specifier: canary
         version: 15.3.0-canary.9(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       react:
-        specifier: ^19.0.0
+        specifier: 19.0.0
         version: 19.0.0
       react-dom:
-        specifier: ^19.0.0
+        specifier: 19.0.0
         version: 19.0.0(react@19.0.0)
     devDependencies:
       '@types/node':
-        specifier: ^22
+        specifier: '22'
         version: 22.13.10
       '@types/react':
-        specifier: ^19
+        specifier: '19'
         version: 19.0.10
       typescript:
-        specifier: ^5
+        specifier: '5'
         version: 5.8.2
 
   packages/next-two:
     dependencies:
       lucide-react:
-        specifier: ^0.479.0
+        specifier: 0.479.0
         version: 0.479.0(react@19.0.0)
       next:
         specifier: canary
         version: 15.3.0-canary.9(react-dom@19.0.0(react@19.0.0))(react@19.0.0)
       react:
-        specifier: ^19.0.0
+        specifier: 19.0.0
         version: 19.0.0
       react-dom:
-        specifier: ^19.0.0
+        specifier: 19.0.0
         version: 19.0.0(react@19.0.0)
     devDependencies:
       '@types/node':
-        specifier: ^22
+        specifier: '22'
         version: 22.13.10
       '@types/react':
-        specifier: ^19
+        specifier: '19'
         version: 19.0.10
       typescript:
-        specifier: ^5
+        specifier: '5'
         version: 5.8.2
 
 packages:
