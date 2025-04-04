@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "clean": "rm -rf node_modules && rm ./pnpm-lock.yaml && rm -rf ./packages/next-one/node_modules && rm -rf ./packages/next-two/node_modules && rm -rf ./packages/next-one/.next && rm -rf ./packages/next-two/.next && rn ./packages/next-one/.next && rm -rf ./packages/next-two/.next && rm -rf ./packages/next-one/.turbo && rm -rf ./packages/pnpm"
   },
   "keywords": [],
   "author": "",
