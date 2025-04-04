@@ -7,9 +7,9 @@ pnpm install
 2. set logging
 
 ```bash
-echo "console.log('💥 lucide-react 479');" >> node_modules/.pnpm/lucide-react@0.479.0_react@19.0.0/node_modules/lucide-react/dist/esm/icons/camera.js
+echo "console.log('💥 lucide-react 479');" >> node_modules/.pnpm/lucide-react@0.479.0_react@19.1.0/node_modules/lucide-react/dist/esm/icons/camera.js
 
-echo "console.log('🌈 lucide-react 400');" >> node_modules/.pnpm/lucide-react@0.400.0_react@19.0.0/node_modules/lucide-react/dist/esm/icons/camera.js
+echo "console.log('🌈 lucide-react 400');" >> node_modules/.pnpm/lucide-react@0.400.0_react@19.1.0/node_modules/lucide-react/dist/esm/icons/camera.js
 ```
 
 3. build next-app-two
